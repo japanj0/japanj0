@@ -1,5 +1,10 @@
 # С чем доводилось работать
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white&logoWidth=30)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Fernet](https://img.shields.io/badge/Fernet-FF6B00?style=for-the-badge&logo=security&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL/TLS-008000?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Steganography](https://img.shields.io/badge/Steganography-2E8B57?style=for-the-badge&logo=image&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
